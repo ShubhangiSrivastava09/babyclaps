@@ -1,0 +1,14 @@
+.searchContainer{
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(227, 224, 224, 0.864); 
+  padding: 10px 7px;
+  border-radius: 5px;
+  gap: 2px;
+}
+.inputField{
+  width: 100%;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
